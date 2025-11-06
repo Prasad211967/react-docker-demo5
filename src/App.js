@@ -1,3 +1,5 @@
+// Trigger GitHub Actions build
+
 import React from "react";
 
 function App() {
